@@ -9,7 +9,6 @@ import fb from './images/fb.png';
 import tw from './images/tw.png';
 import ig from './images/ig.png';
 
-import { useState } from 'react'
 
 
 function App() {
