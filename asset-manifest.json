@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/asp/static/css/main.4699c15d.chunk.css",
+    "main.js": "/asp/static/js/main.d581eb29.chunk.js",
+    "main.js.map": "/asp/static/js/main.d581eb29.chunk.js.map",
+    "runtime-main.js": "/asp/static/js/runtime-main.c21e3840.js",
+    "runtime-main.js.map": "/asp/static/js/runtime-main.c21e3840.js.map",
+    "static/js/2.045c63be.chunk.js": "/asp/static/js/2.045c63be.chunk.js",
+    "static/js/2.045c63be.chunk.js.map": "/asp/static/js/2.045c63be.chunk.js.map",
+    "static/js/3.ecf6c4d2.chunk.js": "/asp/static/js/3.ecf6c4d2.chunk.js",
+    "static/js/3.ecf6c4d2.chunk.js.map": "/asp/static/js/3.ecf6c4d2.chunk.js.map",
+    "index.html": "/asp/index.html",
+    "static/css/main.4699c15d.chunk.css.map": "/asp/static/css/main.4699c15d.chunk.css.map",
+    "static/js/2.045c63be.chunk.js.LICENSE.txt": "/asp/static/js/2.045c63be.chunk.js.LICENSE.txt",
+    "static/media/controller.851391f9.png": "/asp/static/media/controller.851391f9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c21e3840.js",
+    "static/js/2.045c63be.chunk.js",
+    "static/css/main.4699c15d.chunk.css",
+    "static/js/main.d581eb29.chunk.js"
+  ]
+}
